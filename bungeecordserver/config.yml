@@ -1,0 +1,60 @@
+server_connect_timeout: 5000
+listeners:
+- query_port: 25565
+  motd: |2-
+            &f&kttt&r  &f- &2Kitty&3Plays&5Parkour &f-  &kttt&r
+    &aPlay - &7one popular parkour map named &eBlockCeption5
+  tab_list: GLOBAL_PING
+  query_enabled: false
+  proxy_protocol: false
+  forced_hosts:
+    pvp.md-5.net: pvp
+  ping_passthrough: false
+  priorities:
+  - server1
+  bind_local_address: true
+  host: 85.214.61.247:25565
+  max_players: 20
+  tab_size: 60
+  force_default_server: false
+remote_ping_cache: -1
+network_compression_threshold: 256
+permissions:
+  default:
+  - bungeecord.command.server
+  - bungeecord.command.list
+  admin:
+  - bungeecord.command.alert
+  - bungeecord.command.end
+  - bungeecord.command.ip
+  - bungeecord.command.reload
+log_pings: true
+connection_throttle_limit: 3
+prevent_proxy_connections: false
+timeout: 30000
+player_limit: -1
+ip_forward: true
+groups:
+  md_5:
+  - admin
+remote_ping_timeout: 5000
+connection_throttle: 4000
+log_commands: false
+stats: 911673f3-32db-4ad7-9aab-adf5e5bb26e4
+online_mode: true
+forge_support: false
+disabled_commands:
+- disabledcommandhere
+servers:
+  server1:
+    motd: '&1Just another BungeeCord - Forced Host'
+    address: 85.214.61.247:25566
+    restricted: false
+  server2:
+    motd: '&1Just another BungeeCord - Forced Host'
+    address: 85.214.61.247:25567
+    restricted: false
+  server3:
+    motd: '&1Just another BungeeCord - Forced Host'
+    address: 85.214.61.247:25568
+    restricted: false
