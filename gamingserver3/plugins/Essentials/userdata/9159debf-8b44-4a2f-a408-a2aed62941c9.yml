@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 159.196.14.5
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1633273041330
+  login: 1633272855991
+money: '0'
+last-account-name: brain12bangomag
+logoutlocation:
+  world: 746ad283-eb80-497f-b9e1-8f3c5e10794c
+  world-name: Blockception_Parkour_5
+  x: 436.5
+  y: 77.0
+  z: 958.5
+  yaw: -8.905111312866211
+  pitch: -5.5507097244262695

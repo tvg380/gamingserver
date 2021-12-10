@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 84.68.7.240
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1636314142965
+  login: 1636314106095
+money: '0'
+last-account-name: shampoobottle7
+logoutlocation:
+  world: 746ad283-eb80-497f-b9e1-8f3c5e10794c
+  world-name: Blockception_Parkour_5
+  x: -499.4794130567807
+  y: 40.0
+  z: 2.727187268932461
+  yaw: -103.0
+  pitch: 0.0
+lastlocation:
+  world: 746ad283-eb80-497f-b9e1-8f3c5e10794c
+  world-name: Blockception_Parkour_5
+  x: 5.641981527956407
+  y: 51.288245865954856
+  z: 68.76666726995226
+  yaw: -29.662660598754883
+  pitch: 36.551918029785156
