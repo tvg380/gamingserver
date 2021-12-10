@@ -1,0 +1,9 @@
+[Unit]
+Description=Gaming_server_[1] service
+After=multi-user.target
+
+[Service]
+ExecStart=/usr/bin/sudo /root/gamingserver1/start.sh
+
+[Install]
+WantedBy=multi-user.target

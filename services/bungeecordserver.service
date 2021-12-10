@@ -1,0 +1,9 @@
+[Unit]
+Description=Bungiecordserver service
+After=multi-user.target
+
+[Service]
+ExecStart=/usr/bin/sudo ~/bungeecordserver/start.sh
+
+[Install]
+WantedBy=multi-user.target
