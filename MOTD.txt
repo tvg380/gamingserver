@@ -1,0 +1,12 @@
+&f&kttt&r  &f- &2Kitty&3Plays&5Parkour &f-  &kttt
+&aPlay - &7one popular parkour map named &eBlockCeption5
+
+server.properties:        \u00A7f\u00A7kttt\u00A7r  \u00A7f- \u00A72Kitty\u00A73Plays\u00A75Parkour \u00A7f-  \u00A7kttt\u00A7r\n\u00A7aPlay - \u00A77one popular parkour map named \u00A7eBlockCeption5
+
+BungeeCord's conifg.yml:"        &f&kttt&r  &f- &2Kitty&3Plays&5Parkour &f-  &kttt&r\n&aPlay - &7one popular parkour map named &eBlockCeption5"
+
+ServerListPlus serverListPlus.yml:- |-
+          &f&kttt&r  &f- &2Kitty&3Plays&5Parkour &f-  &kttt&r
+  &aPlay - &7one popular parkour map named &eBlockCeption5
+
+Link to MOTD editor: https://mctools.org/motd-creator?text=%26f%26kttt%26r++%26f-+%262Kitty%263Plays%265Parkour+%26f-++%26kttt%0D%0A%26aPlay+-+%267one+popular+parkour+map+named+%26eBlockCeption5&center
