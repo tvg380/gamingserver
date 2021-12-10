@@ -1,0 +1,15 @@
+{
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2021-10-05 06:47:15 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2021-10-05 06:46:39 +0200"
+    },
+    "done": false
+  },
+  "DataVersion": 2730
+}

@@ -1,0 +1,287 @@
+[22:07:07] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[22:07:09] [ServerMain/INFO]: Reloading ResourceManager: Default, bukkit
+[22:07:11] [Worker-Main-4/INFO]: Loaded 7 recipes
+[22:07:14] [Server thread/INFO]: Starting minecraft server version 1.18
+[22:07:14] [Server thread/INFO]: Loading properties
+[22:07:15] [Server thread/INFO]: This server is running CraftBukkit version 3355-Spigot-dbf4938-3c2af1b (MC: 1.18) (Implementing API version 1.18-R0.1-SNAPSHOT)
+[22:07:15] [Server thread/INFO]: Debug logging is disabled
+[22:07:15] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[22:07:15] [Server thread/INFO]: Using 4 threads for Netty based IO
+[22:07:15] [Server thread/INFO]: Default game type: SURVIVAL
+[22:07:15] [Server thread/INFO]: Generating keypair
+[22:07:15] [Server thread/INFO]: Starting Minecraft server on *:25566
+[22:07:16] [Server thread/INFO]: Using epoll channel type
+[22:07:16] [Server thread/WARN]: Failed to find a usable hardware address from the network interfaces; using random bytes: 65:b1:9f:05:72:84:7c:83
+[22:07:18] [Server thread/INFO]: [ClearLag] Loading ClearLag v3.2.2
+[22:07:18] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v7.2.6+4b2d1e7
+[22:07:20] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@5129d11d]
+[22:07:20] [Server thread/INFO]: [Essentials] Loading Essentials v2.19.0
+[22:07:20] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v7.0.6+1cff55f
+[22:07:20] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v4.3.0-b846
+[22:07:20] [Server thread/INFO]: [SuperVanish] Loading SuperVanish v6.2.6
+[22:07:20] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.2.6+4b2d1e7
+[22:07:20] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[22:07:20] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[22:07:21] [Server thread/WARN]: 
+**********************************************
+** This WorldEdit version does not fully support your version of Bukkit.
+**
+** When working with blocks or undoing, chests will be empty, signs
+** will be blank, and so on. There will be no support for entity
+** and block property-related functions.
+**
+** Please see https://worldedit.enginehub.org/en/latest/faq/#bukkit-adapters
+**********************************************
+
+[22:07:22] [Server thread/INFO]: [WorldEdit] ====================================================
+[22:07:22] [Server thread/INFO]: [WorldEdit]  WorldEdit works better if you use Paper 
+[22:07:22] [Server thread/INFO]: [WorldEdit]  as your server software. 
+[22:07:22] [Server thread/INFO]: [WorldEdit]   
+[22:07:22] [Server thread/INFO]: [WorldEdit]  Paper offers significant performance improvements,
+[22:07:22] [Server thread/INFO]: [WorldEdit]  bug fixes, security enhancements and optional
+[22:07:22] [Server thread/INFO]: [WorldEdit]  features for server owners to enhance their server.
+[22:07:22] [Server thread/INFO]: [WorldEdit]   
+[22:07:22] [Server thread/INFO]: [WorldEdit]  Paper includes Timings v2, which is significantly
+[22:07:22] [Server thread/INFO]: [WorldEdit]  better at diagnosing lag problems over v1.
+[22:07:22] [Server thread/INFO]: [WorldEdit]   
+[22:07:22] [Server thread/INFO]: [WorldEdit]  All of your plugins should still work, and the
+[22:07:22] [Server thread/INFO]: [WorldEdit]  Paper community will gladly help you fix any issues.
+[22:07:22] [Server thread/INFO]: [WorldEdit]   
+[22:07:22] [Server thread/INFO]: [WorldEdit]  Join the Paper Community @ https://papermc.io
+[22:07:22] [Server thread/INFO]: [WorldEdit] ====================================================
+[22:07:22] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22:07:22] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[22:07:22] [Server thread/WARN]: Whilst this makes it possible to use BungeeCord, unless access to your server is properly restricted, it also opens up the ability for hackers to connect with any username they choose.
+[22:07:22] [Server thread/WARN]: Please see http://www.spigotmc.org/wiki/firewall-guide/ for further information.
+[22:07:22] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[22:07:22] [Server thread/INFO]: Preparing level "lobby"
+[22:07:22] [Server thread/INFO]: -------- World Settings For [lobby] --------
+[22:07:22] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[22:07:22] [Server thread/INFO]: Cane Growth Modifier: 100%
+[22:07:22] [Server thread/INFO]: Melon Growth Modifier: 100%
+[22:07:22] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[22:07:22] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[22:07:22] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[22:07:22] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[22:07:22] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[22:07:22] [Server thread/INFO]: Potato Growth Modifier: 100%
+[22:07:22] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[22:07:22] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[22:07:22] [Server thread/INFO]: Vine Growth Modifier: 100%
+[22:07:22] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[22:07:22] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[22:07:22] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[22:07:22] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[22:07:22] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[22:07:22] [Server thread/INFO]: Experience Merge Radius: 3.0
+[22:07:22] [Server thread/INFO]: Mob Spawn Range: 6
+[22:07:22] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[22:07:22] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[22:07:22] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[22:07:22] [Server thread/INFO]: Max TNT Explosions: 100
+[22:07:22] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[22:07:22] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[22:07:22] [Server thread/INFO]: Zombie Aggressive Towards Villager: false
+[22:07:22] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: false
+[22:07:22] [Server thread/INFO]: Item Despawn Rate: 6000
+[22:07:22] [Server thread/INFO]: Item Merge Radius: 2.5
+[22:07:22] [Server thread/INFO]: View Distance: 10
+[22:07:22] [Server thread/INFO]: Simulation Distance: 10
+[22:07:22] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[22:07:22] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:07:25] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[22:07:28] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[22:07:28] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[22:07:28] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[22:07:28] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[22:07:28] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[22:07:28] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[22:07:28] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[22:07:28] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[22:07:28] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[22:07:28] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[22:07:28] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[22:07:28] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[22:07:29] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[22:07:29] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[22:07:30] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[22:07:30] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[22:07:31] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[22:07:31] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[22:07:32] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[22:07:32] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[22:07:33] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[22:07:33] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[22:07:34] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[22:07:34] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[22:07:35] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[22:07:35] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[22:07:36] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[22:07:42] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[22:07:42] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[22:07:42] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[22:07:42] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[22:07:43] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[22:07:43] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[22:07:43] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[22:07:43] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[22:07:43] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[22:07:43] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[22:07:43] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[22:07:43] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[22:07:43] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[22:07:43] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[22:07:43] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[22:07:44] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[22:07:44] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[22:07:45] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[22:07:45] [Worker-Main-4/INFO]: Preparing spawn area: 1%
+[22:07:46] [Worker-Main-4/INFO]: Preparing spawn area: 1%
+[22:07:46] [Worker-Main-5/INFO]: Preparing spawn area: 3%
+[22:07:47] [Worker-Main-4/INFO]: Preparing spawn area: 4%
+[22:07:47] [Worker-Main-5/INFO]: Preparing spawn area: 4%
+[22:07:48] [Worker-Main-4/INFO]: Preparing spawn area: 4%
+[22:07:48] [Worker-Main-4/INFO]: Preparing spawn area: 4%
+[22:07:49] [Worker-Main-5/INFO]: Preparing spawn area: 4%
+[22:07:49] [Worker-Main-6/INFO]: Preparing spawn area: 4%
+[22:07:50] [Worker-Main-4/INFO]: Preparing spawn area: 4%
+[22:07:50] [Worker-Main-5/INFO]: Preparing spawn area: 4%
+[22:07:51] [Worker-Main-6/INFO]: Preparing spawn area: 5%
+[22:07:51] [Worker-Main-5/INFO]: Preparing spawn area: 5%
+[22:07:52] [Worker-Main-5/INFO]: Preparing spawn area: 6%
+[22:07:52] [Worker-Main-4/INFO]: Preparing spawn area: 7%
+[22:07:53] [Worker-Main-6/INFO]: Preparing spawn area: 8%
+[22:07:53] [Worker-Main-4/INFO]: Preparing spawn area: 8%
+[22:07:54] [Worker-Main-6/INFO]: Preparing spawn area: 9%
+[22:07:54] [Worker-Main-6/INFO]: Preparing spawn area: 12%
+[22:07:55] [Worker-Main-6/INFO]: Preparing spawn area: 12%
+[22:07:55] [Worker-Main-4/INFO]: Preparing spawn area: 14%
+[22:07:56] [Worker-Main-6/INFO]: Preparing spawn area: 14%
+[22:07:56] [Worker-Main-5/INFO]: Preparing spawn area: 15%
+[22:07:57] [Worker-Main-6/INFO]: Preparing spawn area: 17%
+[22:07:57] [Worker-Main-6/INFO]: Preparing spawn area: 27%
+[22:07:58] [Worker-Main-6/INFO]: Preparing spawn area: 27%
+[22:07:58] [Worker-Main-6/INFO]: Preparing spawn area: 27%
+[22:07:59] [Worker-Main-5/INFO]: Preparing spawn area: 27%
+[22:07:59] [Worker-Main-6/INFO]: Preparing spawn area: 27%
+[22:08:00] [Worker-Main-4/INFO]: Preparing spawn area: 29%
+[22:08:00] [Worker-Main-5/INFO]: Preparing spawn area: 29%
+[22:08:01] [Worker-Main-5/INFO]: Preparing spawn area: 32%
+[22:08:01] [Worker-Main-5/INFO]: Preparing spawn area: 33%
+[22:08:02] [Worker-Main-4/INFO]: Preparing spawn area: 33%
+[22:08:02] [Worker-Main-4/INFO]: Preparing spawn area: 34%
+[22:08:03] [Worker-Main-6/INFO]: Preparing spawn area: 36%
+[22:08:03] [Worker-Main-4/INFO]: Preparing spawn area: 36%
+[22:08:04] [Worker-Main-4/INFO]: Preparing spawn area: 36%
+[22:08:04] [Worker-Main-5/INFO]: Preparing spawn area: 36%
+[22:08:05] [Worker-Main-5/INFO]: Preparing spawn area: 36%
+[22:08:05] [Worker-Main-6/INFO]: Preparing spawn area: 36%
+[22:08:06] [Worker-Main-4/INFO]: Preparing spawn area: 36%
+[22:08:06] [Worker-Main-4/INFO]: Preparing spawn area: 36%
+[22:08:07] [Worker-Main-5/INFO]: Preparing spawn area: 36%
+[22:08:07] [Worker-Main-4/INFO]: Preparing spawn area: 39%
+[22:08:08] [Worker-Main-5/INFO]: Preparing spawn area: 42%
+[22:08:08] [Worker-Main-6/INFO]: Preparing spawn area: 48%
+[22:08:09] [Worker-Main-5/INFO]: Preparing spawn area: 52%
+[22:08:09] [Worker-Main-5/INFO]: Preparing spawn area: 56%
+[22:08:10] [Worker-Main-6/INFO]: Preparing spawn area: 58%
+[22:08:10] [Worker-Main-6/INFO]: Preparing spawn area: 59%
+[22:08:11] [Worker-Main-4/INFO]: Preparing spawn area: 61%
+[22:08:11] [Worker-Main-5/INFO]: Preparing spawn area: 64%
+[22:08:12] [Worker-Main-5/INFO]: Preparing spawn area: 68%
+[22:08:12] [Worker-Main-5/INFO]: Preparing spawn area: 69%
+[22:08:13] [Worker-Main-6/INFO]: Preparing spawn area: 69%
+[22:08:13] [Worker-Main-6/INFO]: Preparing spawn area: 73%
+[22:08:14] [Worker-Main-5/INFO]: Preparing spawn area: 78%
+[22:08:14] [Worker-Main-5/INFO]: Preparing spawn area: 80%
+[22:08:15] [Worker-Main-4/INFO]: Preparing spawn area: 83%
+[22:08:19] [Worker-Main-4/INFO]: Preparing spawn area: 84%
+[22:08:19] [Worker-Main-4/INFO]: Preparing spawn area: 84%
+[22:08:19] [Worker-Main-4/INFO]: Preparing spawn area: 84%
+[22:08:19] [Worker-Main-4/INFO]: Preparing spawn area: 84%
+[22:08:19] [Worker-Main-5/INFO]: Preparing spawn area: 84%
+[22:08:19] [Worker-Main-4/INFO]: Preparing spawn area: 84%
+[22:08:19] [Worker-Main-5/INFO]: Preparing spawn area: 84%
+[22:08:19] [Worker-Main-4/INFO]: Preparing spawn area: 84%
+[22:08:19] [Worker-Main-4/INFO]: Preparing spawn area: 85%
+[22:08:20] [Worker-Main-5/INFO]: Preparing spawn area: 90%
+[22:08:20] [Worker-Main-4/INFO]: Preparing spawn area: 95%
+[22:08:21] [Worker-Main-5/INFO]: Preparing spawn area: 98%
+[22:08:22] [Server thread/INFO]: Time elapsed: 59656 ms
+[22:08:22] [Server thread/INFO]: [ClearLag] Enabling ClearLag v3.2.2
+[22:08:22] [Server thread/INFO]: [ClearLag] Using version-adapter: LatestVersionAdapter
+[22:08:22] [Server thread/INFO]: [ClearLag] Loading modules...
+[22:08:22] [Server thread/WARN]: [ClearLag] Clearlag failed to use the internal TPS tracker during initialization. Reverted to estimation... (net.minecraft.server.v1_18_R1.MinecraftServer)
+[22:08:22] [Server thread/INFO]: [ClearLag] Modules enabed, loading config values
+[22:08:22] [Server thread/INFO]: [ClearLag] Modules have been loaded!
+[22:08:23] [Server thread/INFO]: [ClearLag] Clearlag is now enabled!
+[22:08:23] [Server thread/INFO]: [Essentials] Enabling Essentials v2.19.0
+[22:08:23] [Thread-9/INFO]: [ClearLag] Checking for updates compatible with your bukkit version [1.18]...
+[22:08:23] [Server thread/ERROR]: [Essentials] You are running an unsupported server version!
+[22:08:23] [Thread-9/INFO]: [ClearLag] No updates found!
+[22:08:24] [Server thread/INFO]: Attempting to convert old kits in config.yml to new kits.yml
+[22:08:24] [Server thread/INFO]: No kits found to migrate.
+[22:08:24] [Server thread/WARN]: java.lang.NoSuchMethodException: no such method: net.minecraft.server.MinecraftServer.isRunning()boolean/invokeVirtual
+[22:08:24] [Server thread/WARN]: 	at java.base/java.lang.invoke.MemberName.makeAccessException(MemberName.java:976)
+[22:08:24] [Server thread/WARN]: 	at java.base/java.lang.invoke.MemberName$Factory.resolveOrFail(MemberName.java:1117)
+[22:08:24] [Server thread/WARN]: 	at java.base/java.lang.invoke.MethodHandles$Lookup.resolveOrFail(MethodHandles.java:3649)
+[22:08:24] [Server thread/WARN]: 	at java.base/java.lang.invoke.MethodHandles$Lookup.findVirtual(MethodHandles.java:2680)
+[22:08:24] [Server thread/WARN]: 	at net.ess3.nms.refl.providers.ReflServerStateProvider.<init>(ReflServerStateProvider.java:20)
+[22:08:24] [Server thread/WARN]: 	at com.earth2me.essentials.Essentials.onEnable(Essentials.java:371)
+[22:08:24] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:264)
+[22:08:24] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:342)
+[22:08:24] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:480)
+[22:08:24] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_18_R1.CraftServer.enablePlugin(CraftServer.java:525)
+[22:08:24] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_18_R1.CraftServer.enablePlugins(CraftServer.java:439)
+[22:08:24] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.loadWorld0(MinecraftServer.java:612)
+[22:08:24] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.loadLevel(MinecraftServer.java:414)
+[22:08:24] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.e(DedicatedServer.java:262)
+[22:08:24] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:994)
+[22:08:24] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$0(MinecraftServer.java:304)
+[22:08:24] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:833)
+[22:08:24] [Server thread/WARN]: Caused by: java.lang.NoSuchMethodError: 'boolean net.minecraft.server.MinecraftServer.isRunning()'
+[22:08:24] [Server thread/WARN]: 	at java.base/java.lang.invoke.MethodHandleNatives.resolve(Native Method)
+[22:08:24] [Server thread/WARN]: 	at java.base/java.lang.invoke.MemberName$Factory.resolve(MemberName.java:1085)
+[22:08:24] [Server thread/WARN]: 	at java.base/java.lang.invoke.MemberName$Factory.resolveOrFail(MemberName.java:1114)
+[22:08:24] [Server thread/WARN]: 	... 15 more
+[22:08:24] [Server thread/INFO]: Loaded 36837 items from items.json.
+[22:08:24] [Server thread/INFO]: Using locale nl_NL
+[22:08:24] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[22:08:25] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[22:08:25] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
+[22:08:25] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v7.0.6+1cff55f
+[22:08:25] [Server thread/INFO]: [WorldGuard] (lobby) TNT ignition is PERMITTED.
+[22:08:25] [Server thread/INFO]: [WorldGuard] (lobby) Lighters are PERMITTED.
+[22:08:25] [Server thread/INFO]: [WorldGuard] (lobby) Lava fire is PERMITTED.
+[22:08:25] [Server thread/INFO]: [WorldGuard] (lobby) Fire spread is UNRESTRICTED.
+[22:08:25] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'lobby'
+[22:08:25] [Server thread/INFO]: [WorldGuard] Loading region data...
+[22:08:25] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v4.3.0-b846
+[22:08:25] [Server thread/WARN]: [Multiverse-Core] "Multiverse-Core v4.3.0-b846" has registered a listener for org.bukkit.event.entity.EntityCreatePortalEvent on method "public void com.onarandombox.MultiverseCore.listeners.MVPortalListener.entityPortalCreate(org.bukkit.event.entity.EntityCreatePortalEvent)", but the event is Deprecated. "Server performance will be affected"; please notify the authors [dumptruckman, Rigby, fernferret, lithium3141, main--].
+[22:08:25] [Server thread/INFO]: [Multiverse-Core] §aWe are aware of the warning about the deprecated event. There is no alternative that allows us to do what we need to do and performance impact is negligible. It is safe to ignore.
+[22:08:26] [Server thread/INFO]: [Multiverse-Core] 1 - World(s) loaded.
+[22:08:26] [Server thread/WARN]: [Multiverse-Core] Buscript failed to load! The script command will be disabled! If you would like not to see this message, use `/mv conf enablebuscript false` to disable Buscript from loading.
+[22:08:26] [Server thread/INFO]: [Multiverse-Core] Version 4.3.0-b846 (API v24) Enabled - By dumptruckman, Rigby, fernferret, lithium3141 and main--
+[22:08:26] [Server thread/INFO]: [SuperVanish] Enabling SuperVanish v6.2.6
+[22:08:26] [Server thread/INFO]: [SuperVanish] Please install ProtocolLib to be able to use all SuperVanish features: https://www.spigotmc.org/resources/protocollib.1997/
+[22:08:26] [Server thread/INFO]: [SuperVanish] Hooked into Essentials
+[22:08:26] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[22:08:27] [Server thread/INFO]: Done (65.298s)! For help, type "help"
+[22:08:27] [Craft Scheduler Thread - 1/INFO]: [Essentials] §6Versie-informatie ophalen...
+[22:08:46] [Server thread/INFO]: Stopping the server
+[22:08:46] [Server thread/INFO]: Stopping server
+[22:08:46] [Server thread/INFO]: [SuperVanish] Disabling SuperVanish v6.2.6
+[22:08:46] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v4.3.0-b846
+[22:08:46] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v7.0.6+1cff55f
+[22:08:46] [Server thread/INFO]: [WorldGuard] Shutting down executor and cancelling any pending tasks...
+[22:08:46] [Server thread/INFO]: [Essentials] Disabling Essentials v2.19.0
+[22:08:46] [Server thread/ERROR]: Er is een grote kans dat je je server herlaadt. Als dat zo is, waarom haat je jezelf? Verwacht geen ondersteuning van het EssentialsX-team als je /reload gebruikt.
+[22:08:46] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.2.6+4b2d1e7
+[22:08:46] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[22:08:46] [Server thread/INFO]: [ClearLag] Disabling ClearLag v3.2.2
+[22:08:46] [Server thread/INFO]: [ClearLag] Clearlag is now disabled!
+[22:08:46] [Server thread/INFO]: Saving players
+[22:08:46] [Server thread/INFO]: Saving worlds
+[22:08:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[lobby]'/minecraft:overworld
+[22:08:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (lobby): All chunks are saved
+[22:08:46] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved

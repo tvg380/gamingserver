@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 37.4.226.199
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1636404665362
+  login: 1636404638504
+money: '0'
+last-account-name: Schm0x
+logoutlocation:
+  world: 0f539e32-27ce-4bb6-9971-2830a03d23f1
+  world-name: lobby
+  x: -1523.1902545587368
+  y: 110.5
+  z: 679.6789632420333
+  yaw: -176.199951171875
+  pitch: 15.088113784790039

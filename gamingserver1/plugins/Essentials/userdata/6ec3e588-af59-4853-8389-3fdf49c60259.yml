@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 89.138.45.241
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1635162310162
+  login: 1635161861365
+money: '0'
+last-account-name: bnight19
+logoutlocation:
+  world: 0f539e32-27ce-4bb6-9971-2830a03d23f1
+  world-name: lobby
+  x: -1522.2195879382223
+  y: 110.5
+  z: 679.5947801688459
+  yaw: 173.70016479492188
+  pitch: 10.49997329711914

@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 159.196.14.5
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1633272855753
+  login: 1633272833257
+money: '0'
+last-account-name: brain12bangomag
+logoutlocation:
+  world: af643fef-e5cc-467b-a683-6bbc94a3ffda
+  world-name: lobby1
+  x: -80.0
+  y: 64.0
+  z: -80.0
+  yaw: 120.15695190429688
+  pitch: 48.65022659301758

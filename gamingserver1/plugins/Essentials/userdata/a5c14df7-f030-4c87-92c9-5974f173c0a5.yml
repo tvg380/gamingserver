@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 46.93.85.59
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1633169778599
+  login: 1633169763453
+money: '0'
+last-account-name: Baumi2602
+logoutlocation:
+  world: af643fef-e5cc-467b-a683-6bbc94a3ffda
+  world-name: lobby1
+  x: -79.76857309308244
+  y: 64.0
+  z: -80.74869765249628
+  yaw: -68.39970397949219
+  pitch: 41.849727630615234

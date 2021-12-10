@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 84.68.7.240
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1637013153362
+  login: 1637013102069
+money: '0'
+last-account-name: shampoobottle7
+logoutlocation:
+  world: 0f539e32-27ce-4bb6-9971-2830a03d23f1
+  world-name: lobby
+  x: -1525.9131486644503
+  y: 110.02442408821369
+  z: 659.6189542507799
+  yaw: -173.42623901367188
+  pitch: 31.36842918395996

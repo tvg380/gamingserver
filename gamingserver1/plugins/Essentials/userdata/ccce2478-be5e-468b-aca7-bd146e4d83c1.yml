@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 172.77.122.48
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1634132274763
+  login: 1634132232011
+money: '0'
+last-account-name: Skrt_Skrrrt
+logoutlocation:
+  world: 0f539e32-27ce-4bb6-9971-2830a03d23f1
+  world-name: lobby
+  x: -1524.0380465696312
+  y: 110.0
+  z: 680.8660389855987
+  yaw: -171.44976806640625
+  pitch: 6.750046730041504

@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 111.9.238.137
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1635133857277
+  login: 1635133832771
+money: '0'
+last-account-name: Acuteremlin
+logoutlocation:
+  world: 0f539e32-27ce-4bb6-9971-2830a03d23f1
+  world-name: lobby
+  x: -1527.0678621619986
+  y: 111.0
+  z: 683.0508827295023
+  yaw: 100.82743072509766
+  pitch: 14.480192184448242

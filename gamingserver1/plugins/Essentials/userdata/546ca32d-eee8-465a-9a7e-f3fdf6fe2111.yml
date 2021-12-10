@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 46.1.252.43
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1633273693095
+  login: 1633273670373
+money: '0'
+last-account-name: Mags10298908
+logoutlocation:
+  world: af643fef-e5cc-467b-a683-6bbc94a3ffda
+  world-name: lobby1
+  x: -79.06666560712048
+  y: 64.0
+  z: -78.30000001192093
+  yaw: 23.82601547241211
+  pitch: 19.911447525024414

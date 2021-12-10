@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 82.76.194.56
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1633287354254
+  login: 1633287326215
+money: '0'
+last-account-name: TechnicLion
+logoutlocation:
+  world: af643fef-e5cc-467b-a683-6bbc94a3ffda
+  world-name: lobby1
+  x: -80.0
+  y: 64.0
+  z: -80.0
+  yaw: -90.5654067993164
+  pitch: 16.936443328857422

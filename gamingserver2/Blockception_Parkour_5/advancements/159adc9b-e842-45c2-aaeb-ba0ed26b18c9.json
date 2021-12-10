@@ -1,0 +1,15 @@
+{
+  "minecraft:adventure/honey_block_slide": {
+    "criteria": {
+      "honey_block_slide": "2021-09-28 09:08:16 +0200"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2021-09-26 16:40:34 +0200"
+    },
+    "done": true
+  },
+  "DataVersion": 2730
+}
